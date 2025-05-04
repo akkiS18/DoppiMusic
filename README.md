@@ -1,4 +1,5 @@
 Doppi Music 🎵
+
 **Doppi Music** — bu musiqa tinglash platformasi. Ilova React Native Expo yordamida qurilgan va foydalanuvchilarga audio fayllarni tinglash imkonini beradi.
 
 ## ✨ Xususiyatlari
@@ -6,7 +7,6 @@ Doppi Music 🎵
 - Qurilma (local) musiqalarni yuklash va tinglash
 - Media pleer boshqaruvi: play, pause, skip, seek
 - Minimalistik dizayn
-- 
 ---
 
 ## 🛠 Foydalanilgan texnologiyalar
@@ -32,6 +32,7 @@ npx expo start
 ```
 
 📩 Aloqa
+
 Agar sizda savollar, takliflar yoki hamkorlik istagi bo‘lsa, quyidagi manzilga yozing:
 
 📧 sultonkalonov@icloud.com
