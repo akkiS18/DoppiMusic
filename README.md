@@ -25,8 +25,8 @@ Doppi Music 🎵
 ## 📦 Ishga tushirish (Local)
 
 ```bash
-git clone https://github.com/username/doppi-music.git
-cd doppi-music
+git clone https://github.com/akki18/DoppiMusic.git
+cd DoppiMusic
 npm install
 npx expo start
 ```
@@ -35,5 +35,5 @@ npx expo start
 
 Agar sizda savollar, takliflar yoki hamkorlik istagi bo‘lsa, quyidagi manzilga yozing:
 
-📧 sultonkalonov@icloud.com
+📧 sulton.kalonov@icloud.com
 📱 Telegram: @S18_2003
